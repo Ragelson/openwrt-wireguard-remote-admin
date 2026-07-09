@@ -1,3 +1,4 @@
+[Русская версия](https://github.com/Ragelson/openwrt-wireguard-remote-admin-ru)
 # WireGuard Remote Admin for an OpenWrt Router Running Podkop
 
 Emergency remote access to an office router (OpenWrt 25.12.x, nftables/firewall4) via WireGuard — independent of the primary selective-routing tunnel ([Podkop](https://github.com/itdoginfo/podkop) / VLESS Reality) running on the same device.
