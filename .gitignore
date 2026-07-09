@@ -1,0 +1,5 @@
+*.conf
+*-qr.png
+*.key
+*.pem
+*_private*
